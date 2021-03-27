@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#title {
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    font-size: 50px;
+    line-height: 100px;
+}
+
+#content {
+    background-color: gray;
+    color: #000;
+    text-align: center;
+    height: 150px;
+    width: 100%;
+    
+    
+}
+
+#content div:irst-child{
+    font-weight: 700px;
+}
+#navContent {
+    display: inline-block;
+    height: 35px;
+    padding-top: 15px;
+}
+
+ #subContent {
+    padding-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight : 700px;
+}
+
+f
+
+#searchNumber{
+    line-height: 35px;
+    width: 300px;
+    padding: 0;
+    border: 0;
+}
+
+#content button {
+    line-height: 35px;
+    font-size: 18px;
+    height: 35px;
+    width : 100px;
+    border: 0;
+    padding : 0;
+    bottom: 0;
+}
+
+
+

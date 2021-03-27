@@ -1,0 +1,17 @@
+@media (max-width :736px){
+    #searchNumber{
+        line-height: 35px;
+        width: 60%;
+        padding: 0;
+        border: 0;
+    }
+    #content button {
+        line-height: 35px;
+        font-size: 15px;
+        height: 35px;
+        width : 80px;
+        border: 0;
+        padding : 0;
+        bottom: 0;
+    }
+}
